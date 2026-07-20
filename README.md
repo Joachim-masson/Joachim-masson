@@ -8,7 +8,7 @@ Passionné par la programmation depuis mes étude d'électronique (Assembleur, C
 
 - 🌱 J'apprends actuellement le Cobol
 - 🔭 Je travaille actuellement sur un nouveau projet de formation avec un back en JAVA (BootStrap)
-- 🕹️ Je m'amuse avec de l'assembleur sur une émulaiton de 6502
+- 🕹️ Je m'amuse avec de l'assembleur sur une émulation de 6502
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 🛠️  Domaine,Technologies
