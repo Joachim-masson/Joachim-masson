@@ -7,7 +7,8 @@ Passionné par la programmation depuis mes étude d'électronique (Assembleur, C
 
 
 - 🌱 J'apprends actuellement le Cobol
-- 🔭 Je travaille actuellement sur mon projet 4 de formation (react/node.js)(finalisation avec résolution de bug)
+- 🔭 Je travaille actuellement sur un nouveau projet de formation avec un back en JAVA (BootStrap)
+- 🕹️ Je m'amuse avec de l'assembleur sur une émulaiton de 6502
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 🛠️  Domaine,Technologies
@@ -22,6 +23,13 @@ Passionné par la programmation depuis mes étude d'électronique (Assembleur, C
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+![Java 21](https://img.shields.io/badge/Java_21-ED8B00?logo=openjdk&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+### Autres langages
+![Assembly 68k](https://img.shields.io/badge/68k_Assembly-00599C?logo=cpu&logoColor=white)
+![Assembly 6502](https://img.shields.io/badge/6502_Assembly-E34F26?logo=processor&logoColor=white)
+![COBOL](https://img.shields.io/badge/COBOL-002D62?logo=cobol&logoColor=white)
 
 ### Outils 
 
